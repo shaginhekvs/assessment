@@ -1,0 +1,10 @@
+node_modules/
+dist/
+cdk.out/
+.venv/
+__pycache__/
+*.pyc
+.env
+.aws-sam/
+.terraform/
+*.tfstate*
